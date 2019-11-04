@@ -1,0 +1,3 @@
+"just testing out txt files"
+"ok good"
+ testing echo 
